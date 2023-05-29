@@ -1,0 +1,41 @@
+[
+  {
+    "type": "kawaii",
+    "group":{
+      "uno":{
+        "s":"https://giphy.com/embed/oufD9vopmRy3vpF44m",
+        "h":"Je suis gentil",
+        "p":"Je cherche le lover supreme"
+      },
+      "dos":{
+        "s":"https://giphy.com/embed/L5f4Z5JoOKARG",
+        "h":"Je suis bizarre",
+        "p":"Je cherche le pain"
+      },
+      "tres": {
+        "s":"https://giphy.com/embed/2NJkigfPiu2dmpZg99",
+        "h":"Je suis interessant",
+        "p":"Je cherche le sushi"
+      }
+    }
+  },{
+    "type": "bad",
+    "group":{
+      "uno":{
+        "s":"https://giphy.com/embed/SFKnWcs4gMHTgQLu27",
+        "h":"Je profite de la vie",
+        "p":"Je m'appelle Guillaume et je fais du cachou"
+      },
+      "dos":{
+        "s":"https://giphy.com/embed/XGsapliCHRoo6xxW3l",
+        "h":"Je profite de la mort",
+        "p":"Je m'appelle Guillaume et je fais du cash"
+      },
+      "tres": {
+        "s":"https://giphy.com/embed/SVZz4fczta90Y",
+        "h":"Je profite de la defaite",
+        "p":"Je m'appelle Guillaume et je fais du mounou"
+      }
+    }
+  }
+]
